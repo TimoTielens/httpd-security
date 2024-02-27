@@ -1,0 +1,10 @@
+           _____ __      _______  
+    o O O |_   _|\ \    / /_   _| 
+   o        | |   \ \/\/ /  | |   
+  TS__[O]  _|_|_   \_/\_/  _|_|_  
+ {======|_|"""""|_|"""""|_|"""""| 
+./o--000'"`-0-0-'"`-0-0-'"`-0-0-' 
+
+I am just a random geek with a webserver, however I think security is a thing that always should be kept in mind. 
+If you find anything that maybe looks like a security issue please contact me :). I would love to chat about it and if it's indeed an issue, 
+would be honored to place you on my "Hall Of Fame". I will also do a shout out for you to all my connections!

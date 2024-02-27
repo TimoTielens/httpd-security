@@ -1,0 +1,23 @@
+# The following applies to https://timotielens.nl and all of it's subdomains
+
+# This security file will be looked at atleast once a year.
+Expires: 2025-02-26T23:00:00.000Z
+
+# Contact information
+Contact: mail: security@timotielens.nl
+Contact: github: https://github.com/TimoTielens
+
+# Native in Dutch, but english is perfectly fine as well
+Preferred-Languages: en, nl
+
+# Encryption page
+Encryption: https://timotielens.nl/.well-known/security/encryption.txt
+
+# Security policy
+Policy: https://timotielens.nl/.well-known/security/policy.txt
+
+# Security acknowledgments page, also known as 'Hall of fame'
+Acknowledgments: https://timotielens.nl/.well-known/security/hall-of-fame.txt
+
+# Hiring page
+Hiring: https://timotielens.nl/.well-known/security/hiring.txt
