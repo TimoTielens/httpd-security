@@ -1,0 +1,9 @@
+version: '3.9'
+services:
+  webserver:
+    image: httpd:latest
+    ports:
+    - '8080:80'
+    volumes:
+    - ./website:/usr/local/apache2/htdocs
+    - ./security:/usr/local/apache2/htdocs/.well-known

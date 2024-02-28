@@ -1,9 +1,1 @@
-           _____ __      _______  
-    o O O |_   _|\ \    / /_   _| 
-   o        | |   \ \/\/ /  | |   
-  TS__[O]  _|_|_   \_/\_/  _|_|_  
- {======|_|"""""|_|"""""|_|"""""| 
-./o--000'"`-0-0-'"`-0-0-'"`-0-0-' 
-
-Since there has been no security reports yet there is no one to mention on this page. It Would be awesome if I can keep it that way, however 
-if a researcher finds anything anyways, the list will be updated! 
+Since there has been no security reports yet, there is no one to mention on this page.
