@@ -1,0 +1,1 @@
+There is no real policy here, I just would appreciate it if you do not attack me and just notify me of the (potential) security leak, so I can fix it as quickly as possible.

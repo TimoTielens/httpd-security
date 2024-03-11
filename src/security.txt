@@ -1,0 +1,6 @@
+Contact: mail: please contact the webmaster
+Preferred-Languages: en
+Acknowledgments: /.well-known/security/hall-of-fame.txt
+Encryption: .well-known/security/encryption.txt
+Policy: /.well-known/security/policy.txt
+Hiring: /.well-known/security/hiring.txt
