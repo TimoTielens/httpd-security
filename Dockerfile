@@ -17,23 +17,23 @@ ENV Base=httpd:latest
 # Date and time on which the image was built, conforming to RFC 3339
 ARG BUILD_DATE		    
 # Human-readable title of the image
-ARG BUILD_NAME
+ARG BUILD_NAME=timotielens/http-security
 # Human-readable description of the image	
-ARG BUILD_DESCRIPTION
+ARG BUILD_DESCRIPTION=Docker Image for Apache HTTP Server that already includes the security files
 # version of the packaged software. FALLBACK is Build Date
 ARG BUILD_VERSION=$BUILD_DATE
 # Name of the author that created the image
-ARG AUTHOR_NAME
+ARG AUTHOR_NAME=Timo Tielens
 # Vendor (organization or individual) that created the image
-ARG AUTHOR_VENDOR
+ARG AUTHOR_VENDOR=TwT
 # E-mail of the Author
-ARG AUTHOR_EMAIL
+ARG AUTHOR_EMAIL=development@timotielens.nl
 # URL to find more information on the image
-ARG URL_GENERAL
+ARG URL_GENERAL=https://github.com/TimoTielens/httpd-security
 # URL to get documentation on the image
-ARG URL_DOCUMENTATION
+ARG URL_DOCUMENTATION=https://github.com/TimoTielens/httpd-security/blob/main/README.md
 # URL to get source code for building the image		    
-ARG URL_SOURCE
+ARG URL_SOURCE=https://github.com/TimoTielens/httpd-security
 # Identifier of the GIT Commit that is used to build this container			        
 ARG GIT_COMMIT_ID
 # License(s) under which contained software is distributed
