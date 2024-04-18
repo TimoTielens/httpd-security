@@ -84,6 +84,6 @@ This compose file will deploy the container that can be accessed via port 8080. 
 If you would like to build this container from scratch you can use the following steps:
 
  1. Clone this repo locally and open a console in the root folder
- 2. Run the following command to build the container **docker build --build-arg BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ') -t timotielens/http-security:latest .**
+ 2. Run the following command to build the container **docker build --build-arg BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ') -build-arg BUILD_NAME=timotielens/http-security  -build-arg BUILD_DESCRIPTION="Docker Image for Apache HTTP Server that already includes the security files" -t timotielens/http-security:latest .**
 3.  You can now run the following command to have it running locally. **docker run -p 8080:80 timotielens/http-security:latest**
 4. If you want to push it for some reason to hub.docker.com you first need to make sure that you're logged in, by running **Run  docker login  -u  timotielens**. Once you're logged in you can push the container by running **docker push timotielens/http-security:latest**
