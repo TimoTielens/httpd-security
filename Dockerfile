@@ -1,5 +1,5 @@
 # Source: https://hub.docker.com/_/httpd
-FROM httpd:2.4.58
+FROM httpd:2.4.59
 
 #############################
 ### ENVIRONMENT VARIABLES ###
@@ -7,9 +7,9 @@ FROM httpd:2.4.58
 # Name of the base image that will be used
 ENV BASE_NAME="httpd"
 # Version of the base image that will be used
-ENV BASE_VERSION="latest"
+ENV BASE_VERSION="2.4.59"
 # Name and version of the base image that will be used
-ENV Base=httpd:latest
+ENV Base=httpd:2.4.59
 
 ###################################
 ### ARGUMENTS  - opencontainers ###
